@@ -1,10 +1,10 @@
-# Jogo do ET Bilu 👽🚀
+### Jogo do ET Bilu 👽🚀
 
 Repositório oficial do **Jogo do ET Bilu**, desenvolvido no Construct 3.
 
 ---
 
-📖 História do Jogo
+## 📖 História do Jogo
 
 Em um planeta distante, cercado por anéis cintilantes e repleto de paisagens coloridas, vivia um curioso extraterrestre chamado Bilu. Certa manhã, durante suas explorações, Bilu percebeu uma falha no núcleo energético de sua nave espacial: sem energia suficiente, ele jamais conseguiria reunir força o bastante para iniciar o motor de dobra.
 
@@ -14,17 +14,19 @@ Determinadíssimo a voltar para casa, Bilu embarca numa jornada por mundos desco
 
 Conduza Bilu por cenários surreais, colete o máximo de moedas e ajude nosso destemido ET a completar sua missão: voltar para o planeta que ele chama de lar.
 
-## 🎮 Demo Online
+## Descrição do Projeto
 
-Acesse a versão jogável diretamente no Construct 3, é só clicar no link abaixo:
+Este projeto é um jogo 2D de plataforma, que foi desenvolvido na plataforma Construct 3, como um trabalho da faculdade, o jogo possui 5 telas totais, sendo duas delas, fases do jogo em si. A aplicação possui um banco de dados em real time, que foi feito no Firebase. O jogo completo, foi hospedado na plataforma itch.io.
+
+## 🎮 Jogo Online
+
+Acesse a versão jogável diretamente no Construct 3, através da plataforma itch.io, é só clicar no link abaixo:
 
 [👉 Jogue agora no Construct 3](https://lhbizzi.itch.io/jogo-do-et-bilu)
 
-Jogo hospedado na plataforma itch.io
-
 ---
 
-### 🛠 Como Executar Localmente
+## 🛠 Como Executar Localmente
 
 - Faça o clone deste repositório:
 ```https://github.com/SEU_USUARIO/Jogo-Do-ET-Bilu.git```
@@ -34,7 +36,7 @@ Jogo hospedado na plataforma itch.io
 
 ---
 
-###📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ```
 ├── Jogo do ET Bilu.c3p          # Arquivo fonte do Construct 3
