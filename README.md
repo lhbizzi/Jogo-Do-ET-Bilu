@@ -23,6 +23,7 @@ Acesse a versão jogável diretamente no Construct 3, é só clicar no link abai
 Jogo hospedado na plataforma itch.io
 
 ---
+
 ### 🛠 Como Executar Localmente
 
 - Faça o clone deste repositório:
@@ -30,6 +31,22 @@ Jogo hospedado na plataforma itch.io
 
 - Abra o arquivo plataform game.c3p no Construct 3 (na web ou na versão desktop).
 - Caso queira editar sprites, abra os PNGs na pasta Sprites-ET-Bilu/ no seu editor de imagem favorito.
+
+---
+
+###📂 Estrutura do Projeto
+
+├── plataform game.c3p           # Arquivo fonte do Construct 3
+├── Sprite-ET-Bilu/              # Sprites utilizados no jogo
+│   ├── Base Pack
+│   │   ├── Base Pack
+│   │   │   ├── Enemies          # Sprites dos Inimigos
+│   │   │   ├── Items            # Sprites das Moedas 
+│   │   │   ├── Player           # Sprites do ET Bilu
+│   │   │   ├── Tiles            # Sprites das plataformas
+│   │   │   ├── bg.png           # Sprite do plano de fundo da fase 2
+│   │   │   ├── bg_castle.png    # Sprite do plano de fundo da fase 1                         
+└── README.md                 # Este arquivo
 
 ---
 
