@@ -80,5 +80,5 @@ Tela de Game Over:
 
 ### 📂 Arquivos Complementares
 - Arquivo c3p e Sprites:
-[Sprites e .c3p.zip](https://github.com/user-attachments/files/19902865/Sprites.e.c3p.zip)
+[Sprites e .c3p.zip](https://github.com/user-attachments/files/19908397/Sprites.e.c3p.zip)
     
