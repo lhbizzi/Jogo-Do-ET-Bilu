@@ -70,7 +70,7 @@ Tela de Vencedor:
 Tela de Game Over:
 ![Image](https://github.com/user-attachments/assets/1c2e5a93-2abe-4ea5-917c-1c96243d6350)
 
-### Banco de Dados Firebase
+## 🛢️Banco de Dados Firebase
 ![Image](https://github.com/user-attachments/assets/c00decdd-11c2-4d4c-8cd4-784f84aa4ead)
 
 ---
