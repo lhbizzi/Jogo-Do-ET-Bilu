@@ -47,7 +47,7 @@ Jogo hospedado na plataforma itch.io
 │   │   │   ├── Tiles            # Sprites das plataformas
 │   │   │   ├── bg.png           # Sprite do plano de fundo da fase 2
 │   │   │   ├── bg_castle.png    # Sprite do plano de fundo da fase 1                         
-└── README.md                 # Este arquivo
+└── README.md                    # Este arquivo
 ```
 
 ---
