@@ -26,7 +26,7 @@ Acesse a versão jogável diretamente no Construct 3:
 
 ### Gameplay
 Tela Inicial:
-![Image](https://github.com/user-attachments/assets/0a379e20-f6cd-4fbf-bfab-31c092bec5ed)
+![Image](https://github.com/user-attachments/assets/9fc3b6e5-a63d-4ae0-b1ab-fbbc742daf65)
 
 Fase 1:
 ![Image](https://github.com/user-attachments/assets/b2f05cd3-68ca-4371-81d9-96a5eb4d1757)
