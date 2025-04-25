@@ -25,7 +25,11 @@ Acesse a versão jogável diretamente no Construct 3:
 ## 📸 Screenshots
 
 ### Gameplay
-![Tela de jogo 1](![Image](https://github.com/user-attachments/assets/957dd1b8-24f1-4bdf-9c92-a68bc4e097bf))  
+Tela Inicial:
+![Image](https://github.com/user-attachments/assets/957dd1b8-24f1-4bdf-9c92-a68bc4e097bf)
+
+Fase 1:
+
 ![Tela de jogo 2](screenshots/gameplay2.png)
 
 ### Banco de Dados Firebase
