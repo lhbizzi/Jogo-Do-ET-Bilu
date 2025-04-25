@@ -23,8 +23,8 @@ Este projeto é um jogo 2D de plataforma, que foi desenvolvido na plataforma Con
 - Acesse a versão jogável diretamente no Construct 3, através da plataforma itch.io, é só clicar no link abaixo:
 
 - Controles do jogo:
-   - ⇦ ⇧ ⇨ esquerda, pular e direita respectivamente.
-   - ![image](https://github.com/user-attachments/assets/8bab11a6-b8e7-455f-bb6a-2332e6a2884f) reinicia o jogo da primeira fase, reiniciando também os pontos.
+   - **⇦ ⇧ ⇨ :** esquerda, pular e direita respectivamente.
+   - **Barra de espaço:** reinicia o jogo da primeira fase, reiniciando também os pontos.
 
 - [👉 Jogue agora no Construct 3](https://lhbizzi.itch.io/jogo-do-et-bilu)
 
