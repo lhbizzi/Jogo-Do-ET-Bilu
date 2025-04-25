@@ -18,7 +18,7 @@ Conduza Bilu por cenários surreais, colete o máximo de moedas e ajude nosso de
 
 Acesse a versão jogável diretamente no Construct 3:
 
-[👉 Jogue agora no Construct 3](URL_DO_SEU_JOGO_NO_CONSTRUCT3)
+[👉 Jogue agora no Construct 3](https://lhbizzi.itch.io/jogo-do-et-bilu)
 
 ---
 
