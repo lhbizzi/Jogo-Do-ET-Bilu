@@ -23,6 +23,15 @@ Acesse a versão jogável diretamente no Construct 3, é só clicar no link abai
 Jogo hospedado na plataforma itch.io
 
 ---
+### 🛠 Como Executar Localmente
+
+- Faça o clone deste repositório:
+```https://github.com/SEU_USUARIO/Jogo-Do-ET-Bilu.git```
+
+- Abra o arquivo Jogo-do-ET-Bilu.c3p no Construct 3 (na web ou na versão desktop).
+- Caso queira editar sprites, abra os PNGs na pasta Sprites-ET-Bilu/ no seu editor de imagem favorito.
+
+---
 
 ## 📸 Screenshots
 
