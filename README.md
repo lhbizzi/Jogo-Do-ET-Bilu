@@ -29,8 +29,16 @@ Tela Inicial:
 ![Image](https://github.com/user-attachments/assets/0a379e20-f6cd-4fbf-bfab-31c092bec5ed)
 
 Fase 1:
+![Image](https://github.com/user-attachments/assets/b2f05cd3-68ca-4371-81d9-96a5eb4d1757)
 
-![Tela de jogo 2](screenshots/gameplay2.png)
+Fase 2:
+![Image](https://github.com/user-attachments/assets/c3b0a4bd-3633-4b63-ab7b-364b0f86ccab)
+
+Tela de Vencedor:
+![Image](https://github.com/user-attachments/assets/891c1bf5-f9fe-4c75-a8a5-55f82851f8ae)
+
+Tela de Game Over:
+![Image](https://github.com/user-attachments/assets/1c2e5a93-2abe-4ea5-917c-1c96243d6350)
 
 ### Banco de Dados Firebase
 ![Console Firebase](screenshots/firebase-db.png)
