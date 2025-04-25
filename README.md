@@ -37,7 +37,7 @@ Jogo hospedado na plataforma itch.io
 ###📂 Estrutura do Projeto
 
 ```
-├── plataform game.c3p           # Arquivo fonte do Construct 3
+├── Jogo do ET Bilu.c3p          # Arquivo fonte do Construct 3
 ├── Sprite-ET-Bilu/              # Sprites utilizados no jogo
 │   ├── Base Pack
 │   │   ├── Base Pack
@@ -77,5 +77,5 @@ Tela de Game Over:
 
 ### Arquivos Complementares
 - Arquivo c3p e Sprites:
-[Sprites e .c3p.zip](https://github.com/user-attachments/files/19902688/Sprites.e.c3p.zip) 
+[Sprites e .c3p.zip](https://github.com/user-attachments/files/19902865/Sprites.e.c3p.zip)
     
