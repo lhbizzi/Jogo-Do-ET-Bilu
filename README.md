@@ -14,7 +14,7 @@ Determinadíssimo a voltar para casa, Bilu embarca numa jornada por mundos desco
 
 Conduza Bilu por cenários surreais, colete o máximo de moedas e ajude nosso destemido ET a completar sua missão: voltar para o planeta que ele chama de lar.
 
-## Descrição do Projeto
+## ℹ️ Descrição do Projeto
 
 Este projeto é um jogo 2D de plataforma, que foi desenvolvido na plataforma Construct 3, como um trabalho da faculdade, o jogo possui 5 telas totais, sendo duas delas, fases do jogo em si. A aplicação possui um banco de dados em real time, que foi feito no Firebase. O jogo completo, foi hospedado na plataforma itch.io.
 
@@ -56,7 +56,6 @@ Acesse a versão jogável diretamente no Construct 3, através da plataforma itc
 
 ## 📸 Screenshots
 
-### Gameplay
 Tela Inicial:
 ![Image](https://github.com/user-attachments/assets/9fc3b6e5-a63d-4ae0-b1ab-fbbc742daf65)
 
@@ -77,7 +76,7 @@ Tela de Game Over:
 
 ---
 
-### Arquivos Complementares
+### 📂 Arquivos Complementares
 - Arquivo c3p e Sprites:
 [Sprites e .c3p.zip](https://github.com/user-attachments/files/19902865/Sprites.e.c3p.zip)
     
