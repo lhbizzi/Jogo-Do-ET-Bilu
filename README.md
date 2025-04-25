@@ -42,3 +42,8 @@ Tela de Game Over:
 
 ### Banco de Dados Firebase
 ![Image](https://github.com/user-attachments/assets/c00decdd-11c2-4d4c-8cd4-784f84aa4ead)
+
+### Arquivos Complementares
+- Arquivo c3p e Sprites:
+[Sprites e .c3p.zip](https://github.com/user-attachments/files/19902688/Sprites.e.c3p.zip) 
+    
