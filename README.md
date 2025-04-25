@@ -36,7 +36,8 @@ Jogo hospedado na plataforma itch.io
 
 ###📂 Estrutura do Projeto
 
-```├── plataform game.c3p           # Arquivo fonte do Construct 3
+```
+├── plataform game.c3p           # Arquivo fonte do Construct 3
 ├── Sprite-ET-Bilu/              # Sprites utilizados no jogo
 │   ├── Base Pack
 │   │   ├── Base Pack
@@ -46,7 +47,8 @@ Jogo hospedado na plataforma itch.io
 │   │   │   ├── Tiles            # Sprites das plataformas
 │   │   │   ├── bg.png           # Sprite do plano de fundo da fase 2
 │   │   │   ├── bg_castle.png    # Sprite do plano de fundo da fase 1                         
-└── README.md                 # Este arquivo```
+└── README.md                 # Este arquivo
+```
 
 ---
 
